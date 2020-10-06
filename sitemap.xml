@@ -2,9 +2,65 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://example.com/2020/10/06/EventDispatch/</loc>
+    
+    <lastmod>2020-10-06</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://example.com/2020/10/02/CustomizeView-03/</loc>
+    
+    <lastmod>2020-10-06</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://example.com/link/index.html</loc>
+    
+    <lastmod>2020-10-06</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://example.com/categories/index.html</loc>
     
-    <lastmod>2020-10-01</lastmod>
+    <lastmod>2020-10-06</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://example.com/tags/index.html</loc>
+    
+    <lastmod>2020-10-06</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://example.com/2020/10/04/CustomizeView-04/</loc>
+    
+    <lastmod>2020-10-06</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://example.com/2020/10/01/CustomizeView-02/</loc>
+    
+    <lastmod>2020-10-02</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://example.com/2020/10/02/AndroidContext%E7%90%86%E8%A7%A3/</loc>
+    
+    <lastmod>2020-10-02</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://example.com/2020/09/30/CustomizeView/</loc>
+    
+    <lastmod>2020-10-02</lastmod>
     
   </url>
   
@@ -16,28 +72,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/2020/09/30/CustomizeView/</loc>
-    
-    <lastmod>2020-10-01</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://example.com/2020/10/01/CustomizeView-03/</loc>
-    
-    <lastmod>2020-10-01</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://example.com/2020/10/01/Activity%E7%9A%84%E5%B8%83%E5%B1%80%E5%85%A5%E5%8F%A3/</loc>
-    
-    <lastmod>2020-10-01</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://example.com/2020/10/01/CustomizeView-02/</loc>
     
     <lastmod>2020-10-01</lastmod>
     
@@ -60,7 +95,7 @@
 
   <url>
     <loc>http://example.com/</loc>
-    <lastmod>2020-10-01</lastmod>
+    <lastmod>2020-10-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -68,14 +103,21 @@
   
   <url>
     <loc>http://example.com/tags/android/</loc>
-    <lastmod>2020-10-01</lastmod>
+    <lastmod>2020-10-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://example.com/tags/hexo/</loc>
-    <lastmod>2020-10-01</lastmod>
+    <lastmod>2020-10-06</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/tags/UI/</loc>
+    <lastmod>2020-10-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
@@ -84,14 +126,14 @@
   
   <url>
     <loc>http://example.com/categories/CustomizeView/</loc>
-    <lastmod>2020-10-01</lastmod>
+    <lastmod>2020-10-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://example.com/categories/Hexo/</loc>
-    <lastmod>2020-10-01</lastmod>
+    <lastmod>2020-10-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
