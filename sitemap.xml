@@ -2,16 +2,191 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://example.com/2020/10/06/EventDispatch/</loc>
+    <loc>http://example.com/2020/11/06/%E4%BB%A3%E7%A0%81%E4%B8%8B%E8%BD%BD%E4%B8%8E%E7%BC%96%E8%AF%91/</loc>
     
-    <lastmod>2020-10-06</lastmod>
+    <lastmod>2020-11-06</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://example.com/2020/10/28/init-01/</loc>
+    
+    <lastmod>2020-11-06</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://example.com/2020/11/02/init-%E6%96%87%E4%BB%B6%E6%93%8D%E4%BD%9C%E5%87%BD%E6%95%B0/</loc>
+    
+    <lastmod>2020-11-06</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://example.com/2020/11/02/init%E4%B9%8BPropertyService/</loc>
+    
+    <lastmod>2020-11-06</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://example.com/2020/11/02/android-%E7%8E%AF%E5%A2%83%E5%8F%98%E9%87%8F%E7%9A%84%E8%AE%BE%E7%BD%AE%E4%B8%8E%E6%9F%A5%E7%9C%8B/</loc>
+    
+    <lastmod>2020-11-06</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://example.com/2020/11/06/AMS-%E5%90%AF%E5%8A%A8%E6%B5%81%E7%A8%8B-02-%E4%B9%8B%E6%9E%84%E9%80%A0%E5%87%BD%E6%95%B0/</loc>
+    
+    <lastmod>2020-11-06</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://example.com/2020/11/05/AMS-%E5%90%AF%E5%8A%A8%E6%B5%81%E7%A8%8B-01/</loc>
+    
+    <lastmod>2020-11-06</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://example.com/2020/10/28/adb/</loc>
+    
+    <lastmod>2020-11-06</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://example.com/2020/10/15/zygote01/</loc>
+    
+    <lastmod>2020-11-03</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://example.com/2020/11/02/init-02/</loc>
+    
+    <lastmod>2020-11-03</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://example.com/2020/11/02/android%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4/</loc>
+    
+    <lastmod>2020-11-03</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://example.com/2020/10/28/dumpsys/</loc>
+    
+    <lastmod>2020-10-29</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://example.com/2020/10/27/concurrent-01/</loc>
+    
+    <lastmod>2020-10-27</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://example.com/2020/10/26/ServiceManager-addService/</loc>
+    
+    <lastmod>2020-10-27</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://example.com/2020/10/22/ProcessState/</loc>
+    
+    <lastmod>2020-10-27</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://example.com/2020/10/22/get-IServiceManager/</loc>
+    
+    <lastmod>2020-10-27</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://example.com/2020/10/16/binder_reg_jni/</loc>
+    
+    <lastmod>2020-10-27</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://example.com/2020/10/16/binder_service_manager/</loc>
+    
+    <lastmod>2020-10-21</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://example.com/2020/10/21/binder-servicace-mansger-02/</loc>
+    
+    <lastmod>2020-10-21</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://example.com/2020/10/14/binderDriver/</loc>
+    
+    <lastmod>2020-10-20</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://example.com/2020/10/16/BottomNavigationView/</loc>
+    
+    <lastmod>2020-10-16</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://example.com/2020/10/07/handler/</loc>
+    
+    <lastmod>2020-10-14</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://example.com/2020/10/01/CustomizeView-02/</loc>
+    
+    <lastmod>2020-10-14</lastmod>
     
   </url>
   
   <url>
     <loc>http://example.com/2020/10/02/CustomizeView-03/</loc>
     
-    <lastmod>2020-10-06</lastmod>
+    <lastmod>2020-10-14</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://example.com/2020/10/14/Context%E7%90%86%E8%A7%A3/</loc>
+    
+    <lastmod>2020-10-14</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://example.com/2020/10/06/EventDispatch/</loc>
+    
+    <lastmod>2020-10-14</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://example.com/2020/10/13/ViewLayout/</loc>
+    
+    <lastmod>2020-10-13</lastmod>
     
   </url>
   
@@ -44,20 +219,6 @@
   </url>
   
   <url>
-    <loc>http://example.com/2020/10/01/CustomizeView-02/</loc>
-    
-    <lastmod>2020-10-02</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://example.com/2020/10/02/AndroidContext%E7%90%86%E8%A7%A3/</loc>
-    
-    <lastmod>2020-10-02</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://example.com/2020/09/30/CustomizeView/</loc>
     
     <lastmod>2020-10-02</lastmod>
@@ -66,13 +227,6 @@
   
   <url>
     <loc>http://example.com/2020/10/01/hexo%E6%90%AD%E5%BB%BA%E9%97%AE%E9%A2%98%E8%AE%B0%E5%BD%95/</loc>
-    
-    <lastmod>2020-10-01</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://example.com/2020/10/01/Activity%E7%9A%84%E5%B8%83%E5%B1%80%E5%85%A5%E5%8F%A3/</loc>
     
     <lastmod>2020-10-01</lastmod>
     
@@ -95,7 +249,7 @@
 
   <url>
     <loc>http://example.com/</loc>
-    <lastmod>2020-10-06</lastmod>
+    <lastmod>2020-11-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -103,21 +257,49 @@
   
   <url>
     <loc>http://example.com/tags/android/</loc>
-    <lastmod>2020-10-06</lastmod>
+    <lastmod>2020-11-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://example.com/tags/hexo/</loc>
-    <lastmod>2020-10-06</lastmod>
+    <lastmod>2020-11-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://example.com/tags/UI/</loc>
-    <lastmod>2020-10-06</lastmod>
+    <lastmod>2020-11-06</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/tags/handler/</loc>
+    <lastmod>2020-11-06</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/tags/binder/</loc>
+    <lastmod>2020-11-06</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/tags/zygote/</loc>
+    <lastmod>2020-11-06</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/tags/init/</loc>
+    <lastmod>2020-11-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
@@ -126,14 +308,77 @@
   
   <url>
     <loc>http://example.com/categories/CustomizeView/</loc>
-    <lastmod>2020-10-06</lastmod>
+    <lastmod>2020-11-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://example.com/categories/Hexo/</loc>
-    <lastmod>2020-10-06</lastmod>
+    <lastmod>2020-11-06</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/categories/handler/</loc>
+    <lastmod>2020-11-06</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/categories/binder/</loc>
+    <lastmod>2020-11-06</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/categories/init/</loc>
+    <lastmod>2020-11-06</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/categories/zygote/</loc>
+    <lastmod>2020-11-06</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/categories/android/</loc>
+    <lastmod>2020-11-06</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/categories/android%E8%B0%83%E8%AF%95/</loc>
+    <lastmod>2020-11-06</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/categories/AMS/</loc>
+    <lastmod>2020-11-06</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/categories/android%E7%B3%BB%E7%BB%9F/</loc>
+    <lastmod>2020-11-06</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/categories/init%E8%BF%9B%E7%A8%8B/</loc>
+    <lastmod>2020-11-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
