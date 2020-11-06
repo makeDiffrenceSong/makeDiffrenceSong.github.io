@@ -2,14 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://example.com/2020/11/07/AMS-SystemUi%E5%90%AF%E5%8A%A8%E6%B5%81%E7%A8%8B/</loc>
+    <loc>http://example.com/2020/10/01/hexo%E6%90%AD%E5%BB%BA%E9%97%AE%E9%A2%98%E8%AE%B0%E5%BD%95/</loc>
     
     <lastmod>2020-11-06</lastmod>
     
   </url>
   
   <url>
-    <loc>http://example.com/2020/10/01/hexo%E6%90%AD%E5%BB%BA%E9%97%AE%E9%A2%98%E8%AE%B0%E5%BD%95/</loc>
+    <loc>http://example.com/2020/09/27/hello-world/</loc>
+    
+    <lastmod>2020-11-06</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://example.com/2020/11/07/AMS-SystemUi%E5%90%AF%E5%8A%A8%E6%B5%81%E7%A8%8B/</loc>
     
     <lastmod>2020-11-06</lastmod>
     
@@ -250,13 +257,6 @@
     <loc>http://example.com/2020/09/30/displayStrategy/</loc>
     
     <lastmod>2020-09-30</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://example.com/2020/09/27/hello-world/</loc>
-    
-    <lastmod>2020-09-27</lastmod>
     
   </url>
   
