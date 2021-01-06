@@ -4,12 +4,26 @@
   <url>
     <loc>http://example.com/2020/12/29/OkHttp%E6%BA%90%E7%A0%81%E5%88%86%E6%9E%90/</loc>
     
-    <lastmod>2020-12-30</lastmod>
+    <lastmod>2020-12-31</lastmod>
     
   </url>
   
   <url>
     <loc>http://example.com/2020/12/17/TCP-IP-%E4%B8%89%E6%AC%A1%E6%8F%A1%E6%89%8B%E4%B8%8E%E5%9B%9B%E6%AC%A1%E6%8C%A5%E6%89%8B/</loc>
+    
+    <lastmod>2020-12-30</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://example.com/2020/12/23/android%E7%BD%91%E7%BB%9C%E7%BC%96%E7%A8%8B/</loc>
+    
+    <lastmod>2020-12-30</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://example.com/2020/12/25/okHttp-%E7%BC%96%E7%A8%8B%E5%B8%B8%E8%A7%81%E9%94%99%E8%AF%AF/</loc>
     
     <lastmod>2020-12-30</lastmod>
     
@@ -26,20 +40,6 @@
     <loc>http://example.com/2020/12/28/Fragment%E6%80%BB%E7%BB%93/</loc>
     
     <lastmod>2020-12-29</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://example.com/2020/12/23/android%E7%BD%91%E7%BB%9C%E7%BC%96%E7%A8%8B/</loc>
-    
-    <lastmod>2020-12-29</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://example.com/2020/12/25/okHttp-%E7%BC%96%E7%A8%8B%E5%B8%B8%E8%A7%81%E9%94%99%E8%AF%AF/</loc>
-    
-    <lastmod>2020-12-25</lastmod>
     
   </url>
   
@@ -508,7 +508,7 @@
 
   <url>
     <loc>http://example.com/</loc>
-    <lastmod>2020-12-30</lastmod>
+    <lastmod>2021-01-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -516,70 +516,70 @@
   
   <url>
     <loc>http://example.com/tags/android/</loc>
-    <lastmod>2020-12-30</lastmod>
+    <lastmod>2021-01-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://example.com/tags/hexo/</loc>
-    <lastmod>2020-12-30</lastmod>
+    <lastmod>2021-01-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://example.com/tags/UI/</loc>
-    <lastmod>2020-12-30</lastmod>
+    <lastmod>2021-01-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://example.com/tags/handler/</loc>
-    <lastmod>2020-12-30</lastmod>
+    <lastmod>2021-01-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://example.com/tags/binder/</loc>
-    <lastmod>2020-12-30</lastmod>
+    <lastmod>2021-01-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://example.com/tags/zygote/</loc>
-    <lastmod>2020-12-30</lastmod>
+    <lastmod>2021-01-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://example.com/tags/init/</loc>
-    <lastmod>2020-12-30</lastmod>
+    <lastmod>2021-01-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://example.com/tags/GitHub/</loc>
-    <lastmod>2020-12-30</lastmod>
+    <lastmod>2021-01-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://example.com/tags/Android/</loc>
-    <lastmod>2020-12-30</lastmod>
+    <lastmod>2021-01-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://example.com/tags/Java%E5%9F%BA%E7%A1%80/</loc>
-    <lastmod>2020-12-30</lastmod>
+    <lastmod>2021-01-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
@@ -588,133 +588,126 @@
   
   <url>
     <loc>http://example.com/categories/CustomizeView/</loc>
-    <lastmod>2020-12-30</lastmod>
+    <lastmod>2021-01-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://example.com/categories/Hexo/</loc>
-    <lastmod>2020-12-30</lastmod>
+    <lastmod>2021-01-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://example.com/categories/handler/</loc>
-    <lastmod>2020-12-30</lastmod>
+    <lastmod>2021-01-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://example.com/categories/binder/</loc>
-    <lastmod>2020-12-30</lastmod>
+    <lastmod>2021-01-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://example.com/categories/zygote/</loc>
-    <lastmod>2020-12-30</lastmod>
+    <lastmod>2021-01-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://example.com/categories/android%E8%B0%83%E8%AF%95/</loc>
-    <lastmod>2020-12-30</lastmod>
+    <lastmod>2021-01-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://example.com/categories/AMS/</loc>
-    <lastmod>2020-12-30</lastmod>
+    <lastmod>2021-01-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://example.com/categories/android%E7%B3%BB%E7%BB%9F/</loc>
-    <lastmod>2020-12-30</lastmod>
+    <lastmod>2021-01-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://example.com/categories/init%E8%BF%9B%E7%A8%8B/</loc>
-    <lastmod>2020-12-30</lastmod>
+    <lastmod>2021-01-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://example.com/categories/GitHub/</loc>
-    <lastmod>2020-12-30</lastmod>
+    <lastmod>2021-01-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://example.com/categories/UI%E4%BA%8B%E4%BB%B6%E5%88%86%E5%8F%91/</loc>
-    <lastmod>2020-12-30</lastmod>
+    <lastmod>2021-01-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://example.com/categories/UI/</loc>
-    <lastmod>2020-12-30</lastmod>
+    <lastmod>2021-01-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://example.com/categories/WMS/</loc>
-    <lastmod>2020-12-30</lastmod>
+    <lastmod>2021-01-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://example.com/categories/PKMS/</loc>
-    <lastmod>2020-12-30</lastmod>
+    <lastmod>2021-01-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://example.com/categories/log/</loc>
-    <lastmod>2020-12-30</lastmod>
+    <lastmod>2021-01-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://example.com/categories/logd%E8%BF%9B%E7%A8%8B/</loc>
-    <lastmod>2020-12-30</lastmod>
+    <lastmod>2021-01-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://example.com/categories/TCP-IP/</loc>
-    <lastmod>2020-12-30</lastmod>
+    <lastmod>2021-01-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://example.com/categories/%E7%BD%91%E7%BB%9C%E7%BC%96%E7%A8%8B/</loc>
-    <lastmod>2020-12-30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://example.com/categories/TCP-IP/</loc>
-    <lastmod>2020-12-30</lastmod>
+    <lastmod>2021-01-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
